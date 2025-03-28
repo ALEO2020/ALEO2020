@@ -456,5 +456,5 @@ Here are some ideas to get you started:
 
 ## Sponsors
 <a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
+<img src="[/web/static/img/tidb-cloud-logo-w.png](https://static.pingcap.com/files/2023/06/23183557/Introducing-TiDB-1.jpeg)" height=50 />
 </a>
