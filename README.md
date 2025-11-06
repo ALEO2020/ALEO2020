@@ -35,9 +35,7 @@
 </p>
 
 <!-- 🏆 SVG BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg" alt="SVG Banner" width="600">
-</p>
+
 
 <!-- 💻 TERMINAL GIF -->
 <p align="center">
@@ -49,10 +47,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" alt="Divider Line" height="20" width="1000">
 </p>
 
-<!-- 📰 RSS MARQUEE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" alt="RSS Marquee">
-</p>
+
 
 <!-- 🎨 CAPSULE HEADER -->
 <p align="center">
